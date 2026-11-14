@@ -15,7 +15,8 @@
   },
   "include": [
     "src/**/*"
-, "dist/index.js"  ],
+//, "dist/index.js" 
+],
   "exclude": [
     "node_modules",
     "dist"
